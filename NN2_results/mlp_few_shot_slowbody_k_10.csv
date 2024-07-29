@@ -1,0 +1,2 @@
+acc_mean,recall_mean,fpr_mean,acc_opt,recall_opt,fpr_opt,acc_wst,recall_wst,fpr_wst
+0.82671,0.70192,0.0485,0.9153,0.8502,0.0196,0.6446,0.3118,0.0226
