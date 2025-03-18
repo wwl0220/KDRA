@@ -19,3 +19,6 @@ This code has been tested on Windows 10 (Windows 11) with PyCharm 2020.1, Python
 
 ## Meta-training, meta-testing and test
 Run <code>meta/proto_net/kdra.py</code>
+
+## Train and test base models
+Run <code>users/mlp_train.py</code>
